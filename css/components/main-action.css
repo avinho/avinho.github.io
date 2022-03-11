@@ -1,4 +1,4 @@
-.action{
+.main-action{
     display: inline-flex;
     font-weight: 500;
     text-decoration: none;
@@ -7,7 +7,7 @@
     color: white;
     
 }
-.action:before{
+.main-action:before{
     content: '';
     width: 10px;
     height: 10px;
