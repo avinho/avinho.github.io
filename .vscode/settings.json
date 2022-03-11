@@ -1,0 +1,7 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "powermode.enabled": true,
+    "powermode.combo.location": "off",
+    "powermode.shake.enabled": false
+}

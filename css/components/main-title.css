@@ -5,7 +5,17 @@
     color: #f51212;
     text-shadow: 4px 4px 0px black;
 }
-.main-title.-second{
+.main-title.-skills{
     text-shadow: none;
     text-align: center;
+}
+.main-title.-projects{
+    text-shadow: none;
+    text-align: center;
+    color: white;
+}
+.main-title.-about{
+    text-shadow: none;
+    text-align: center;
+    color: red;
 }
